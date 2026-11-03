@@ -56,8 +56,6 @@ dashboard-bajo-peso-nacer/
     └── analisis.ipynb
 ```
 
-La carpeta `notebooks/` es opcional. Si incluyes un notebook, reemplaza `analisis.ipynb` por el nombre real del archivo y verifica que no contenga información confidencial ni rutas locales que impidan su ejecución.
-
 ## Cómo ejecutar el dashboard
 
 No necesitas instalar dependencias para abrir la versión HTML estática.
