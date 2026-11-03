@@ -51,7 +51,6 @@ dashboard-bajo-peso-nacer/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── dashboard_plantilla_salud_materna.html
 ├── index.html
 └── notebooks/
     └── analisis.ipynb
@@ -63,7 +62,7 @@ dashboard-bajo-peso-nacer/
 No necesitas instalar dependencias para abrir la versión HTML estática.
 
 1. Clona el repositorio o descarga sus archivos desde GitHub.
-2. Localiza el archivo `dashboard_plantilla_salud_materna.html`.
+2. Localiza el archivo `index.html`.
 3. Ábrelo con un navegador actualizado, como Google Chrome, Microsoft Edge o Firefox.
 4. Explora las secciones disponibles y utiliza los controles interactivos.
 
