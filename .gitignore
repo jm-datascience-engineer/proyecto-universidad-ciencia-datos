@@ -1,0 +1,50 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Datos y archivos de análisis
+*.csv
+*.xlsx
+*.xls
+*.parquet
+data/
+datos/
+private/
+secrets/
+
+# Credenciales y variables de entorno
+.env
+.env.*
+!.env.example
+credentials.json
+service-account*.json
+*.pem
+*.key
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores de código
+.vscode/
+.idea/
+
+# Archivos temporales y registros
+*.log
+*.tmp
+*.bak
+
+# Archivos generados
+dist/
+build/
