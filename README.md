@@ -119,7 +119,7 @@ La licencia del código no concede automáticamente derechos de uso o redistribu
 
 ## Uso ético de herramientas de inteligencia artificial
 
-Las herramientas de inteligencia artificial pueden utilizarse como apoyo al desarrollo, la documentación y la revisión del proyecto. Su uso debe realizarse de forma transparente y responsable, verificando los resultados generados y manteniendo la responsabilidad académica sobre el contenido, el análisis y las conclusiones.
+Las herramientas de inteligencia artificial se utilizaron como apoyo al desarrollo, la documentación y la revisión del proyecto. Se recomienda su uso de forma transparente y responsable, verificando los resultados generados y manteniendo la responsabilidad académica sobre el contenido, el análisis y las conclusiones.
 
 ## Estado del proyecto
 
