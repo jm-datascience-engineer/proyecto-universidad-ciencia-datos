@@ -52,6 +52,7 @@ dashboard-bajo-peso-nacer/
 ├── LICENSE
 ├── .gitignore
 ├── dashboard_plantilla_salud_materna.html
+├── index.html
 └── notebooks/
     └── analisis.ipynb
     └── modelos_adicionales.ipynb
@@ -66,7 +67,7 @@ No necesitas instalar dependencias para abrir la versión HTML estática.
 3. Ábrelo con un navegador actualizado, como Google Chrome, Microsoft Edge o Firefox.
 4. Explora las secciones disponibles y utiliza los controles interactivos.
 
-Si deseas publicar el dashboard en línea, puedes evaluar GitHub Pages, siempre que los archivos y datos incluidos sean apropiados para su publicación pública.
+Si lo desea puede acceder directamente a  `https://jm-datascience-engineer.github.io/proyecto-universidad-ciencia-datos/`
 
 ## Consideraciones metodológicas
 
